@@ -1,0 +1,95 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : mimimimetr : mimimimetr-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/mimimimetr-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/mimimimetr-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mimimimetr_main/web/Web Gradle : mimimimetr-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mimimimetr_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.apache.logging.log4j:log4j-core:2.11.2" />
+          <element id="library" level="project" name="Gradle: org.apache.logging.log4j:log4j-api:2.11.2" />
+          <element id="library" level="project" name="Gradle: log4j:log4j:1.2.16" />
+          <element id="library" level="project" name="Gradle: postgresql:postgresql:9.1-901-1.jdbc4" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-web:4.2.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-config:4.2.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-core:4.2.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-tx:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.uberfire:uberfire-nio2-api:2.14.0.Final" />
+          <element id="library" level="project" name="Gradle: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Gradle: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Gradle: org.uberfire:uberfire-nio2-model:2.14.0.Final" />
+          <element id="library" level="project" name="Gradle: org.uberfire:uberfire-commons:2.14.0.Final" />
+          <element id="library" level="project" name="Gradle: org.kie.soup:kie-soup-commons:7.17.0.Final" />
+          <element id="library" level="project" name="Gradle: commons-io:commons-io:2.5" />
+          <element id="library" level="project" name="Gradle: org.jboss.errai:errai-marshalling:4.4.1.Final" />
+          <element id="library" level="project" name="Gradle: org.jboss.errai:errai-config:4.4.1.Final" />
+          <element id="library" level="project" name="Gradle: org.jboss.errai:errai-codegen-gwt:4.4.1.Final" />
+          <element id="library" level="project" name="Gradle: org.jboss.errai:errai-codegen:4.4.1.Final" />
+          <element id="library" level="project" name="Gradle: org.jboss.errai:errai-common:4.4.1.Final" />
+          <element id="library" level="project" name="Gradle: org.jboss.errai.reflections:reflections:4.4.1.Final" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Gradle: org.apache.activemq:artemis-jms-client:2.3.0" />
+          <element id="library" level="project" name="Gradle: org.jboss.spec.javax.jms:jboss-jms-api_2.0_spec:1.0.2.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-handler:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-transport-native-kqueue:osx-x86_64:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-codec-http:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-codec:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-transport:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-buffer:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: com.thoughtworks.xstream:xstream:1.4.10" />
+          <element id="library" level="project" name="Gradle: commons-codec:commons-codec:1.10" />
+          <element id="library" level="project" name="Gradle: org.apache.activemq:artemis-core-client:2.3.0" />
+          <element id="library" level="project" name="Gradle: org.apache.activemq:artemis-selector:2.3.0" />
+          <element id="library" level="project" name="Gradle: javax.enterprise:cdi-api:1.2" />
+          <element id="library" level="project" name="Gradle: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-resolver:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: io.netty:netty-common:4.1.16.Final" />
+          <element id="library" level="project" name="Gradle: xmlpull:xmlpull:1.1.3.1" />
+          <element id="library" level="project" name="Gradle: xpp3:xpp3_min:1.1.4c" />
+          <element id="library" level="project" name="Gradle: org.jgroups:jgroups:3.6.13.Final" />
+          <element id="library" level="project" name="Gradle: org.apache.activemq:artemis-commons:2.3.0" />
+          <element id="library" level="project" name="Gradle: org.apache.geronimo.specs:geronimo-json_1.0_spec:1.0-alpha-1" />
+          <element id="library" level="project" name="Gradle: org.apache.johnzon:johnzon-core:0.9.5" />
+          <element id="library" level="project" name="Gradle: com.google.elemental2:elemental2-dom:1.0.0-beta-1" />
+          <element id="library" level="project" name="Gradle: com.google.elemental2:elemental2-core:1.0.0-beta-1" />
+          <element id="library" level="project" name="Gradle: com.google.elemental2:elemental2-promise:1.0.0-beta-1" />
+          <element id="library" level="project" name="Gradle: com.google.jsinterop:base:1.0.0-beta-1" />
+          <element id="library" level="project" name="Gradle: com.google.jsinterop:jsinterop-annotations:1.0.1" />
+          <element id="library" level="project" name="Gradle: junit:junit:4.12" />
+          <element id="library" level="project" name="Gradle: de.benediktmeurer.gwt-slf4j:gwt-slf4j:0.0.2" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.4" />
+          <element id="library" level="project" name="Gradle: org.mvel:mvel2:2.4.2.Final" />
+          <element id="library" level="project" name="Gradle: org.jboss.logging:jboss-logging:3.3.0.Final" />
+          <element id="library" level="project" name="Gradle: commons-beanutils:commons-beanutils:1.9.2" />
+          <element id="library" level="project" name="Gradle: com.google.guava:guava:20.0" />
+          <element id="library" level="project" name="Gradle: org.javassist:javassist:3.20.0-GA" />
+          <element id="library" level="project" name="Gradle: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Gradle: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

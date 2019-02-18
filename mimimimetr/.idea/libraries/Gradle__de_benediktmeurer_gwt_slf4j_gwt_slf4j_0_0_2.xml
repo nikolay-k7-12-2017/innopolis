@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: de.benediktmeurer.gwt-slf4j:gwt-slf4j:0.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.benediktmeurer.gwt-slf4j/gwt-slf4j/0.0.2/f9b2b8a5efd1336223ae75ed26b95a92ed374eb/gwt-slf4j-0.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.benediktmeurer.gwt-slf4j/gwt-slf4j/0.0.2/6cc31527fa70b0e9aa3a503bef820ef55953b429/gwt-slf4j-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

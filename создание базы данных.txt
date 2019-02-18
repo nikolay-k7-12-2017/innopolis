@@ -1,0 +1,36 @@
+
+
+
+задайте путь к базе картинок который находится в services:
+
+public class UserService {
+    //путь к базе Картинок
+    public static final String IMAGES_BASE_CAT = "E:\\obuchenie java\\mimimi\\mimimimetr\\imagepage\\";
+	// количество победителей
+    public static final int MAX_QUANTITY_WITHDRAW_CAT=10;
+
+
+
+
+
+CREATE TABLE users
+(
+  id       INTEGER NOT NULL
+    CONSTRAINT users_id_pk
+    PRIMARY KEY,
+  login    VARCHAR(200),
+  password VARCHAR(200),
+  enabled  BOOLEAN,
+  role     VARCHAR(200)
+);
+
+CREATE TABLE mimimi
+(
+  id      INTEGER NOT NULL
+    CONSTRAINT mimimi_pkey
+    PRIMARY KEY,
+  picture VARCHAR NOT NULL,
+  name    VARCHAR NOT NULL,
+  counter INTEGER NOT NULL
+);
+

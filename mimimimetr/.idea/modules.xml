@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mimimimetr.iml" filepath="$PROJECT_DIR$/mimimimetr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mimimimetr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mimimimetr_main.iml" group="mimimimetr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mimimimetr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mimimimetr_test.iml" group="mimimimetr" />
+    </modules>
+  </component>
+</project>

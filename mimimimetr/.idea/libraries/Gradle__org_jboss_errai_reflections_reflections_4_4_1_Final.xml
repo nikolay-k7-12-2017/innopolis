@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.errai.reflections:reflections:4.4.1.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.errai.reflections/reflections/4.4.1.Final/cd8a62f12364a46195b69250a8764096203f9d9b/reflections-4.4.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.errai.reflections/reflections/4.4.1.Final/f96f71f56220b156fee6b34425b63375d8b9be09/reflections-4.4.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.errai:errai-config:4.4.1.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.errai/errai-config/4.4.1.Final/f0e58e5e9529b59fa7524b4966320e7f90a11136/errai-config-4.4.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.errai/errai-config/4.4.1.Final/9c82c4c20da504ffb30aa46acac6011744aef92/errai-config-4.4.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.jsinterop:base:1.0.0-beta-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jsinterop/base/1.0.0-beta-1/fb6e7eee875244eebe1593bfc45cfaca800e34be/base-1.0.0-beta-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jsinterop/base/1.0.0-beta-1/fe55e50f6e65835688c87135f4685f648c31280/base-1.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.errai:errai-codegen-gwt:4.4.1.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.errai/errai-codegen-gwt/4.4.1.Final/45c829e961ee17b405d323b862209802ed6410b0/errai-codegen-gwt-4.4.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.errai/errai-codegen-gwt/4.4.1.Final/3b3966556838ebedd726c2819521a38c176e0291/errai-codegen-gwt-4.4.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
